@@ -9,5 +9,4 @@ button.addEventListener("click", function(){
     const firstName = document.getElementById("lastname").value;
     
     alert(`Nom: ${lastName}\n Prénom: ${firstName}\n Ville: ${city}`)
-    console.log(city);
 });
